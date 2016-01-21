@@ -19,3 +19,7 @@
 		- Sum 简单了解了一下 最后还是专注一门这个 [mobile-web-development](https://www.udacity.com/course/mobile-web-development--cs256) 我还是比较喜欢这个的开发 在任何平台上都可以使用
 		- 又学习了一个 先读概要 然后再dive in 
 	- [x] 确定 使用 python web app 开发 ok
+
+PPS 暂时不启动 论文为先 21. January 2016 12:00PM 
+
+
